@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>EM-997-GY.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\EM-997-GY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>617</ymin>
+			<xmax>730</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>DN-419-NG.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\DN-419-NG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1020</xmin>
+			<ymin>695</ymin>
+			<xmax>1193</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>

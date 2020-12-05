@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>CA-188-VG.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\CA-188-VG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1386</width>
+		<height>942</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>441</ymin>
+			<xmax>469</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

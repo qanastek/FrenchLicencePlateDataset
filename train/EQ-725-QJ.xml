@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>EQ-725-QJ.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\EQ-725-QJ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1430</width>
+		<height>884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>434</ymin>
+			<xmax>770</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

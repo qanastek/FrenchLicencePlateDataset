@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>WW-921-MX.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\WW-921-MX.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1590</width>
+		<height>1159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>956</xmin>
+			<ymin>803</ymin>
+			<xmax>1133</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>

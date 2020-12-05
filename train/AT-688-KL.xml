@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>AT-688-KL.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\AT-688-KL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>847</width>
+		<height>635</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>458</ymin>
+			<xmax>265</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

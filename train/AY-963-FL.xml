@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>AY-963-FL.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\AY-963-FL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>651</ymin>
+			<xmax>706</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

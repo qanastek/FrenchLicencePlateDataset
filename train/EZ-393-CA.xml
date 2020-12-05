@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>EZ-393-CA.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\EZ-393-CA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1068</xmin>
+			<ymin>701</ymin>
+			<xmax>1418</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>

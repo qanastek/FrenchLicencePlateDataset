@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>FJ-743-AQ.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\FJ-743-AQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>887</ymin>
+			<xmax>244</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+</annotation>

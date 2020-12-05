@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>FR-931-PX.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\FR-931-PX.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>678</ymin>
+			<xmax>469</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

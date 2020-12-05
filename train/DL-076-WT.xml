@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>DL-076-WT.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\DL-076-WT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>490</ymin>
+			<xmax>391</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

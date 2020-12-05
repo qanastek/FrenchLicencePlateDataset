@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>198 GV 73.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\198 GV 73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>605</ymin>
+			<xmax>574</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

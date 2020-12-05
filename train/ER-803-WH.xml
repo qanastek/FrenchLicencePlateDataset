@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>ER-803-WH.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\ER-803-WH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1531</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>332</ymin>
+			<xmax>679</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

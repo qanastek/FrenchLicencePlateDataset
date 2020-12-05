@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>CS-229-EP.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\CS-229-EP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1376</width>
+		<height>1032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>497</ymin>
+			<xmax>316</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

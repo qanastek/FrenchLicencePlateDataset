@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>EH-003-HT.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\EH-003-HT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1712</width>
+		<height>1284</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>1007</ymin>
+			<xmax>663</xmax>
+			<ymax>1114</ymax>
+		</bndbox>
+	</object>
+</annotation>

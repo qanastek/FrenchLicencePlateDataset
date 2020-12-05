@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>FR-192-CN.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\FR-192-CN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>539</ymin>
+			<xmax>534</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

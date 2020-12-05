@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>EL-493-LK.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\EL-493-LK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>192</ymin>
+			<xmax>206</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

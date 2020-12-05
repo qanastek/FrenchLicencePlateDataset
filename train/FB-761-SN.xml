@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>FB-761-SN.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\FB-761-SN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>922</xmin>
+			<ymin>1061</ymin>
+			<xmax>1064</xmax>
+			<ymax>1107</ymax>
+		</bndbox>
+	</object>
+</annotation>

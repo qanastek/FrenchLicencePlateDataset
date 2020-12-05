@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>CX-471-YT.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\CX-471-YT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>248</ymin>
+			<xmax>404</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

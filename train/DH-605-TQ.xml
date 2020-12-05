@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>DH-605-TQ.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\DH-605-TQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>964</ymin>
+			<xmax>702</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>

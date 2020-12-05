@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>CS-903-QC.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\CS-903-QC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1640</width>
+		<height>739</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>374</ymin>
+			<xmax>502</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

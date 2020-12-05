@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>DY-378-ZH.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\DY-378-ZH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1474</width>
+		<height>798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>291</ymin>
+			<xmax>579</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

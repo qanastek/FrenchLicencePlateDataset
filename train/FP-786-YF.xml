@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>FP-786-YF.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\FP-786-YF.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>700</ymin>
+			<xmax>1156</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+</annotation>

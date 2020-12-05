@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>BY-187-RT.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\BY-187-RT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1301</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>471</ymin>
+			<xmax>487</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

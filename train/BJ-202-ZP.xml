@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>BJ-202-ZP.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\BJ-202-ZP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1860</width>
+		<height>996</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>599</ymin>
+			<xmax>631</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

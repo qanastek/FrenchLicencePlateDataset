@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>BT-091-WZ.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\BT-091-WZ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>522</ymin>
+			<xmax>681</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

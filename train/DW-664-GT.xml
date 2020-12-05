@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>DW-664-GT.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\DW-664-GT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>887</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>357</ymin>
+			<xmax>438</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

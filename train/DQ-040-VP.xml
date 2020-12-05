@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>DQ-040-VP.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\DQ-040-VP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>811</ymin>
+			<xmax>675</xmax>
+			<ymax>909</ymax>
+		</bndbox>
+	</object>
+</annotation>

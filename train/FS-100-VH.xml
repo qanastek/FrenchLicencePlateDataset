@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>FS-100-VH.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\FS-100-VH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1584</width>
+		<height>1432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>555</ymin>
+			<xmax>1004</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

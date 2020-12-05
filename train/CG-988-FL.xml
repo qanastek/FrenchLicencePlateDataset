@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LicencePlatesFR</folder>
+	<filename>CG-988-FL.jpg</filename>
+	<path>D:\Projects\Datasets\LicencePlatesFR\CG-988-FL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>759</xmin>
+			<ymin>495</ymin>
+			<xmax>994</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>
